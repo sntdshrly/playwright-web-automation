@@ -1,2 +1,2 @@
-# playwright-web-automation
-a set of codes during playwright course.
+# Playwright Web Automation
+A set of codes during playwright course.
